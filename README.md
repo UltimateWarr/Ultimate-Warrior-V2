@@ -13,7 +13,7 @@ Rediscover the joy of playing with the fastest, most feature-rich skill-emulatio
 * Highly aggressive & polished skill-emulation engine offering the lowest skill delays attainable: far surpassing NGSP, PR, free SP and Bern script in speed, responsiveness and fluidity.
 * Client-side edge counter with server synchronization (further eradicating those instances where the edge counter doesn't update for an exceptionally long time, despite edge still being processed server-side).
 * Fast chaining, numerous optimizations & improvements only achievable through countless hours of direct attention to the class - all contextualized through a competitive mindset.
-* No ghosting (a completely ghost-free, dependable Charging Slash) and highly reliable skills without compromising on speed.
+* No ghosting (a completely ghost-free, dependable Charging Slash) and highly reliable skills.
 * Additional stability mode facilitates a substantial increase to attack speed with no typical compromise in reliability.
 * Blade Draw early-cancellation prevention (with a huge range of configuration options).
 * Client-side Backstab (which correctly turns camera) and client-side Charging Slash (typically one or both being delayed by the server in other prediction modules).

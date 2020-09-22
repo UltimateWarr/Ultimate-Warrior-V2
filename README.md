@@ -23,6 +23,7 @@ Rediscover the joy of playing with the fastest, most feature-rich skill-emulatio
 * Extensive configuration options available - every aspect of the module is fully customizable & in your control.
 * Access to exclusive discord server for discussion about the module (feature requests, support), with resources to further optimize your gameplay (custom game configuration files for minimising input lag, fps enhancement, AHK).
 * Suitable for players with both low & high ping.
+* All races supported.
 * Full glyph & EP support, knockdown, stagger & push support.
 * Ping, enable/disable & many other commands.
 * Continual updates & optimizations, new features and support for future patches.

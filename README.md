@@ -28,6 +28,6 @@ Rediscover the joy of playing with the fastest, most feature-rich skill-emulatio
 * Ping, enable/disable & many other commands.
 * Continual updates & optimizations, new features and support for future patches.
 
-Lifetime access 75€ via PayPal, message me on Discord for more information (config file/ping available to view on request):
+Lifetime access 75€ via PayPal, message me on Discord for more information (config file/README available to view on request):
 
 **UltimateWarrior#5539**

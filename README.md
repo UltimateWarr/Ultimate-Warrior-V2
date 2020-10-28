@@ -15,7 +15,7 @@ Rediscover the joy of playing with the fastest, most feature-rich skill-emulatio
 * Fast chaining, numerous optimizations & improvements only achievable through countless hours of direct attention to the class - all contextualized through a competitive mindset.
 * No ghosting (a completely ghost-free, dependable Charging Slash) and highly reliable skills.
 * Substantial increase to attack speed with no typical compromise in reliability.
-* Blade Draw early-cancellation prevention (with a huge range of configuration options).
+* Blade Draw/Rain of Blows early-cancellation prevention (with a huge range of configuration options).
 * Client-side Backstab (which correctly turns camera) and client-side Charging Slash (typically one or both being delayed by the server in other prediction modules).
 * Accurate skill hit registration - no more skill desync, missed skills or boss collision issues robbing you of damage.
 * Blade Draw, Traverse Cut & Blade Frenzy accidental slow-cast prevention.
@@ -24,11 +24,12 @@ Rediscover the joy of playing with the fastest, most feature-rich skill-emulatio
 * Access to exclusive discord server for discussion about the module (changelog, feature requests, support), with resources to further optimize your gameplay (custom game configuration files for minimising input lag, fps enhancement, AHK).
 * Suitable for players with both low & high ping.
 * All races supported.
+* PvE and PvP support.
 * Full glyph & EP support, knockdown, stagger & push support.
 * Ping, enable/disable & many other commands.
 * Continual updates & optimizations, new features and support for future patches.
 
-Lifetime access 75€ via PayPal, message me on Discord for more information (config file/README/testimonials available to view on request):
+Lifetime access 75€ via PayPal, message me on Discord for more information (config file/README/testimonials/additional videos available to view on request):
 
 **Trials now available under certain conditions.**
 

@@ -23,7 +23,7 @@ Rediscover the joy of playing with the fastest, most feature-rich skill-emulatio
 * Extensive configuration options available - every aspect of the module is fully customizable & in your control.
 * Access to exclusive discord server for discussion about the module (changelog, feature requests, support), with resources to further optimize your gameplay (custom game configuration files for minimising input lag, fps enhancement, AHK).
 * Suitable for players with both low & high ping.
-* All races supported.
+* All races & TERA regions supported (KR/TW/NA/EU).
 * PvE and PvP support.
 * Full glyph & EP support, knockdown, stagger & push support.
 * Ping, enable/disable & many other commands.

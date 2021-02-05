@@ -39,6 +39,7 @@ Written from the ground-up: a completely custom & original zero ping/skill-emula
 * Control over attack speed values for maximum customizability to ping & preference.
 * Backstab no-boss target prevention.
 * Countless unmentioned improvements versus older versions.
+
 Lifetime access, updates & support (full upgrade for previous owners) - 75€.
 
 Message me on Discord for more information:

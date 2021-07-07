@@ -25,7 +25,7 @@ A completely custom & original zero ping/skill-emulation module designed for com
 * Integrated fps tax & client latency skill speed compensation. <sub>UW V2</sub>
 * In-built custom boss ping remover. <sub>UW V2</sub>
 * Instant stamina system. <sub>UW V2</sub>
-* dynamicStabilityMode gives complete control over the stability of the module. The aim with this mode is to allow the option of a stabilized experience for high spread or high ping users. <sub>UW V2</sub>
+* dynamicStabilityMode gives complete control over the stability of the module. The aim with this mode is to allow the option of a stabilized experience for users with an unstable network. <sub>UW V2</sub>
 * External ping method for more accurate ping values. <sub>UW V2</sub>
 * Blade Waltz no longer has any animation restarts. <sub>UW V2</sub>
 * Defense-stance automatic block cancel feature.
@@ -41,3 +41,4 @@ Lifetime access, updates & support (full upgrade for previous owners) - 75€.
 Message me on Discord for more information:
 
 ### UltimateWarrior#5539
+
